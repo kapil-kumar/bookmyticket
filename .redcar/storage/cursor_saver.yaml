@@ -1,0 +1,14 @@
+--- 
+cursor_positions: 
+  - :path: app/controllers/home_controller.rb
+    :cursor_offset: 703
+    :timestamp: 2014-10-29 17:17:25 +05:30
+  - :path: Gemfile
+    :cursor_offset: 262
+    :timestamp: 2014-10-29 15:26:12 +05:30
+    :selection_offset: 239
+    :block_selection_mode: false
+  - :path: app/views/home/index.html.erb
+    :cursor_offset: 154
+    :timestamp: 2014-10-29 17:15:39 +05:30
+files_to_retain: 0
